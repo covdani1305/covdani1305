@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Covaci Daniel
 - 👀 Front-end Web Developer
-- 🌱 Experience with Angular, NextJS!!!
+- 🌱 Experience with Angular, NgRx, TailwinCSS, SCSS!!!
 - email: covdani1305@gmail.com
 - LinkedIn : https://www.linkedin.com/in/daniel-covaci-1a7232265/
